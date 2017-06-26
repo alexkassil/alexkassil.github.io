@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Hello World!"
+date: 2017-04-18
+categories: welcome meta
 ---
 Welcome to my very first blog post! I am very _very_ excited to get my ideas out to the world.
 

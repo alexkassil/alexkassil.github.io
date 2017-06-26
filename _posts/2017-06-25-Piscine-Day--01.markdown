@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Piscine Day -01: The Night Before"
+date: 2017-06-25
+category: piscine
+---
+Today is June 25th, and tomorrow being the first day of the 2017 July Piscine. A piscine is a bootcamp test that, if successfully passed, makes one eligible to continue their studies at 42 Usa. More can be found [here](https://www.42.us.org), with info about the piscine [here](https://www.42.us.org/the-university/bootcamp-piscine/).
+
+I sit in my hotel room, a ten minute drive away from the Silicon Valley 42 campus, giddy for the month to come. Join me as I document the day to day trials of 4 weeks full time coding (weekends too!) to hopefully become a better programmer and gain admittance to the 42 program.
