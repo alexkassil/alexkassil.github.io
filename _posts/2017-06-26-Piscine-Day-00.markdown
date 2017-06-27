@@ -17,5 +17,72 @@ Throughout the day I documented each of the exercises as I worked through them. 
 ### Ex 00
 _Done 10:00 am_
 
+Pretty simple exercise, just had to send an email with your username
 
+### Ex 01
+_Done 10:08 am_
 
+Fairly interesting exercise, had to create a file with specific permissions, heavy use of `chmod`.
+
+### Ex 02
+_Done 10:50 am_
+
+Ex 01 on steroids. Six different files/directories/symlinks that need to match an exact output. Very heavy use of `chmod` and attention to detail.
+
+### Ex 03
+_Done 12:04 pm_
+
+Kerberos Networkd Authentication System work. Learned about tickets and authenticators. `klist` command to display the tickets and redirect standard output. Also this is the time I figured out how to configure the github submission setup.
+
+### Ex 04
+_Done 1:00 pm_
+
+LDAP, Lighweight Directory Access Protocol API, is what I needed to learn about for this exercise. From there I made an `ldapwhoami` query.
+
+### Lunch
+_1:00 pm to 2:00 pm_
+
+Food at the cantina, 6 bucks for a decent lunch.
+
+### Ex 05
+_Done 2:54 pm_
+
+`ldapsearch` to combined with `grep`, `sort`, and `sed` to find the names of all users starting with the letter z listed alphabetically but in reverse. Quite a fun problem.
+
+### Ex 06
+_Stopped 3:30 pm, Returned 4:38 pm, Done 5:00 pm_
+
+LDIF query to update the phone number stored in the LDAP database. The trick was changing one's host URI with the ldap master address to change the database values stored for your user. I needed a lot of help from others for this.
+
+### Ex 07
+_Done 3:47 pm_
+
+Simple `ls` with extra flags command.
+
+### Ex 08
+_Done 3:55 pm_
+
+Very simple `cat` output file.
+
+### Ex 09
+_Done 4:38 pm_
+
+Very fun reverse `diff` with `patch` work. Interesting and cool use of part of star wars title sequence.
+
+### Ex 10
+_Done 6:03 pm_
+
+Fairly straightforward usage of the man page for `find` to figure out a complex removal command. Useful for cleaning up extra emacs files. After I finished I spent a lot of time helping others.
+
+### Ex 11
+_Started 7:15 pm, Stopped 8:30 pm, Return 10:00 pm, Done 10:30 pm_
+
+Fairly mind bending use of file and magic to create one's own file type. Help from friends
+
+### Dinner
+_8:30 pm to 10:00 pm_
+
+Since the cantina dinner ended at 6:30, I ventured out to i-Tea, a local tea and food place near by. About a 20 minute walk each way. Great boba and great popcorn chicken 10/10.
+
+### Concluding Thoughts
+A lot was thrown at us pisciners today. No real programming though, a lot of terminal and Unix and informational technology stuff with Bash. Still great to know. A lot of fun, everyone at the piscine is super friendly and hardworking. A lot of people are struggling, with a few who already dropped out. I can't wait for day 01!
