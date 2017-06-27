@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Piscine Day 00: Sink or Swim"
+date: 2017-06-26
+category: piscine
+---
+What a day. I got to the campus at 8:25 am for the check in, and I left at 11:25 pm. It was a day full of fun, programming, and new friends!
+
+## Check In
+After getting there at 8:25, I sat around in the check-in area until 8:42 when a few quick speakers came to give us words of encouragement and info about certain logistics. Overall there were about 300 people present at the check in.
+
+Then we were filtered upstairs where our photos were taken, our accounts activated, and we sat down to code. This all took about an hour.
+
+## Field Notes
+Throughout the day I documented each of the exercises as I worked through them. Enjoy my field notes!
+
+### Ex 00
+_Done 10:00 am_
+
+
+
