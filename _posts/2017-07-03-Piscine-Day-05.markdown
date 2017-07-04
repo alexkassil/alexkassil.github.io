@@ -11,6 +11,10 @@ It's kind of confusing how the 42 program releases the exercises for "Day 05" wh
 
 Anyways Day 05 is more tedious than difficult. There are 24 exercises, with the first 3 being repeats from Day 03. All of them have to do with different standard C string library functions. I am just rewriting many functions like atoi, putstr, strstr, strncpy, strncmp, and many others. I am definitely understanding the whole relation between chars and strings and pointers and arrays, all while really groking delicate C specifications.
 
+### Level up!
+
+After receiving my grade for Day 04, 66/100 because I stupidly returned True instead of False in one step of my is_prime function, I leveled up to level 2! I am now at level 2 and 8% of the way to level 3. I am quite pleased with myself, because I heard that level 3 is the threshold one needs to reach to be admitted to the piscine. At this rate, I could end up level 4/5 by the end. Also I don't really know what the levels mean, but I know the cadets get them as well.
+
 ### Sastantua FAILED
 
 I got a 0/100 on Sastantua, even though all 3 of my peer evaluations gave me 100/100. I foolishly forgot to put my sastantua.c file into an ex00/ directory before submitting it to git. It was quite frustrating when I realized this, but then I thought about how I didn't pay enough attention to the details clearly spelled out in the instructions. I do feel bad about my group Rush00 project, because since I did the submitting, I also messed up and didn't put those files into the their own directory before submitting with git. Well know I will never make that mistake again.
