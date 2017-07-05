@@ -4,6 +4,8 @@ title: "Piscine Day 00: Sink or Swim"
 date: 2017-06-26
 category: piscine
 ---
+
+## Day 00 (Day 1)
 What a day. I got to the campus at 8:25 am for the check in, and I left at 11:25 pm. It was a day full of fun, programming, and new friends!
 
 ## Check In
