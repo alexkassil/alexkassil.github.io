@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Day 07: You only Fail if you Give Up"
+date: 2017-07-05
+categories: piscine
+---
+## Day 07 (Day 10)
+I failed Day 05 and the Rush 00. Very disappointing, but I am glad I do the work and get logical, working code. I am learning a lot, but my code isn't perfect.
+
+### Static Libraries
+
+For Day 06 I had to create a static library. It was really cool to see how the whole C language relies of similar libraries to have all your standard functions. I am really understading the inner workings of the C language, and it's quite fun to learn so much.
+
+### Reflection
+
+It's crazy how we are already a third of the way done. A lot is thrown at me every day. We have lost between a third and half of the pisciners, and correction points are dwindling. I have a few tips for future pisciners.
+- Don't expect to do perfect (or near perfect) on everything. I know I did and I have failed around half of everything assigned. I was pretty cocky cause I had a background in C and programming. Go in to the piscine ready to learn.
+- Don't do everything on your own. The piscine is a very social place. Talk to everyone, meet new people, help others, and have them help you.
+- Find a few people around your level to work with. Having 1 or 2 people really on the same page as you every day is invaluable. You get a second pair of eyes to help and a second brain to think of ideas when you're stuck.
+- Don't give up. I know no one goes in expecting to give up, but people do. Just progressing a little bit every day improves your programming knowledge and prowess.
+- Don't go in knowing nothing. Play around with terminal, follow a simple tutorial (I am partial to the terminal tutorial on software carpentry), and learn a bit of C. The Harvard CS50 lectures are great for that. I am not saying to study many, many hours before the piscine, but have a small base.
+- Have fun. I am having a blast and so should you!
+

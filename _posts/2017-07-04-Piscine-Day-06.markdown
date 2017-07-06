@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Day 06: Pointers, Strings, and Chars! Oh my!
-category: piscine
+title: "Day 06: Pointers, Strings, and Chars! Oh my!"
+date: 2017-07-04
+categories: piscine
 ---
 ## Day 06 (Day 9)
 Today I spent all day working on Day 05. I only finished about 12 exercises from Day 05 the previous day, so I had quite a bit to do. Also I started the day late, only arriving to the lab at 2:00pm after sleeping in, doing laundry, writing a post, doing some python, and eating lunch. Then I attacked the problems.

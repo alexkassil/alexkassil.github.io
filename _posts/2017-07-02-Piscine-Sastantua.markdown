@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Perilous Pyramid:
+title: "The Perilous Pyramid"
 date: 2017-07-02
 category: piscine
 ---
