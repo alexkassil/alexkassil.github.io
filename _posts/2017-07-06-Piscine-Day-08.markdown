@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Day 08: And Day 07 And Day 09"
+date: 2017-07-06
+categories: piscine
+---
+## Day 08 (Day 11)
+Today was a lot of work. For a few hours I had 3 different days being open. Day 07 was due at 11:42pm on Thursday, Day 08 opened at 8:42 am on Thursday, and Day 09 started on 5:42 pm on Thursday, so from 5:42 - 11:42 I was swamped with work. Quite a lot of fun and a lot to learn. Day 08 introduced a fascinating concept of structures.
+
+Structues are a type of compound data block that compounds variables into one. They are similar to classes, but they cannot have any functions. We also learned about header files. Header files take all the repetive preprocessing from the beginning of a C file and sticks it in a header file, where all macros, prototypes, structures, and even global variables can be defined. And then these header files can be used and reused and reused again for all c files from a project.
+
+As I learn more and more C components, I am itching to build some sort of grand project in C. Hopefully the final project of the piscine can be that.
