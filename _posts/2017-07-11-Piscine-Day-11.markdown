@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Day 11: Making the most of Makefiles"
+date: 2017-07-11
+categories: piscine
+---
+## Day 11 (Day 16)
+While Day 11 opened up today, I did not get to it. I was so busy finishing up Day 10! While I learned a lot about Makefiles yesterday, I got to use them, and then function pointers, in conjuction for quite a few exercises. The coolest exercise of today was a rudimentary calculator that would take operations and integer inputs to give out the result.
+
+Today I almost ruined my whole submission. With minutes to go before 11:42, I accidentaly pushed my whole practice folder to the submission github vlogosphere account other than just my files for the day. Thankfully someone with a lot more git knowledge than me fixed my stupid error and it all worked out. I definitely started to panick last minute
