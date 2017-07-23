@@ -2,7 +2,7 @@
 layout: post
 title: "Sastantua: The Perilous Pyramid"
 date: 2017-07-02
-category: piscine
+categories: piscine
 ---
 
 After hours and hours of work, I submitted my first project, Sustantua.
