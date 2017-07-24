@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Piscine Day 02: The C Piscine"
-date: ?
+date: 2017-06-28
 category: piscine
 ---
 
