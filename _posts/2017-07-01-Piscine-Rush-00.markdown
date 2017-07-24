@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rush 00: Group Fun"
+title: "Piscine Rush 00: Group Fun"
 categories: piscine
 ---
 
