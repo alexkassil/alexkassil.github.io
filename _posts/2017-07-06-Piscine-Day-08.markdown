@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 08: And Day 07 And Day 09"
+title: "Piscine Day 08: And Day 07 And Day 09"
 date: 2017-07-06
 categories: piscine
 ---

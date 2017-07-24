@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Piscine Day 02: The C Piscine"
+date: ?
+category: piscine
+---
+
+## Day 02
+Today we ventured into the unknown depths of actual programming. The last two days were just terminal and shell commands. Today we started C.
+
+C is a programming language invented in the 1970s. The cool thing about C is that it is pretty low level (by today's standards, I've read that when it was first created, it was high level compared to assembly and even machine code), allowing you to allocate and access memories with pointers. No pointers today. Just displaying chars.
+
+## Write
+
+The only function we are allowed to use is write, which we can use to make our own putchar, which writes one character to the screen. From this we printed the alphabet, forwards and backwards. We print numbers, 0-9, and then different combinations of numbers. A pretty cool intro to C, looping, and variables.
