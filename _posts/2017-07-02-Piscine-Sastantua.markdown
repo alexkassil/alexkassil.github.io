@@ -5,7 +5,7 @@ date: 2017-07-02
 categories: piscine
 ---
 
-After hours and hours of work, I submitted my first project, Sustantua.
+After hours and hours of work, I submitted my first project, Sastantua.
 
 ## Sastantua (Day 6)
 Sastantua is quite the project. One has to construct a pyramid with access to only one function, putchar, which calls only one function, write, from the unistd library. Lots of logic went into this project, and after about 10 hours of work I finished it _hopefully_ correctly.

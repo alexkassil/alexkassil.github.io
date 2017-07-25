@@ -8,7 +8,7 @@ Welcome to my very first blog post! I am very _very_ excited to get my ideas out
 
 ### Plan for this blog
 
-I have been putting quite a bit of thought into what I wan't and don't want for this blog.
+I have been putting quite a bit of thought into what I want and don't want for this blog.
 
 ##### What this blog __won't__ be
 * Political or religious
@@ -21,4 +21,4 @@ I have been putting quite a bit of thought into what I wan't and don't want for 
 * Collections of my projects/ideas
 * Thoughtful reflections
 
-With this first post, I just want to thank some influencial bloggers. [Cal Newport](calnewport.com/blog/), [Scott Young](https://www.scotthyoung.com/blog/), [Paul Graham](http://www.paulgraham.com/articles.html), and [Matt Might](http://matt.might.net/articles/) are all amazing bloggers about Computer Science, life, being a student, excelling, plus other interesting applicable topics. You should check them all out. __BE WARNED__ While each blog is an amazing resource, they are all also amazing time sinks.
+With this first post, I just want to thank some influentially bloggers. [Cal Newport](calnewport.com/blog/), [Scott Young](https://www.scotthyoung.com/blog/), [Paul Graham](http://www.paulgraham.com/articles.html), and [Matt Might](http://matt.might.net/articles/) are all amazing bloggers about Computer Science, life, being a student, excelling, plus other interesting applicable topics. You should check them all out. __BE WARNED__ While each blog is an amazing resource, they are all also amazing time sinks.

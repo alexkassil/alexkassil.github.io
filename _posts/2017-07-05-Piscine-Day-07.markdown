@@ -9,7 +9,7 @@ I failed Day 05 and the Rush 00. Very disappointing, but I am glad I do the work
 
 ### Static Libraries
 
-For Day 06 I had to create a static library. It was really cool to see how the whole C language relies of similar libraries to have all your standard functions. I am really understading the inner workings of the C language, and it's quite fun to learn so much.
+For Day 06 I had to create a static library. It was really cool to see how the whole C language relies of similar libraries to have all your standard functions. I am really understanding the inner workings of the C language, and it's quite fun to learn so much.
 
 ### Reflection
 

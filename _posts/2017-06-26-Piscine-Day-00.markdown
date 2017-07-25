@@ -34,12 +34,12 @@ Ex 01 on steroids. Six different files/directories/symlinks that need to match a
 ### Ex 03
 _Done 12:04 pm_
 
-Kerberos Networkd Authentication System work. Learned about tickets and authenticators. `klist` command to display the tickets and redirect standard output. Also this is the time I figured out how to configure the github submission setup.
+Kerberos Network Authentication System work. Learned about tickets and authenticators. `klist` command to display the tickets and redirect standard output. Also this is the time I figured out how to configure the github submission setup.
 
 ### Ex 04
 _Done 1:00 pm_
 
-LDAP, Lighweight Directory Access Protocol API, is what I needed to learn about for this exercise. From there I made an `ldapwhoami` query.
+LDAP, Lightweight Directory Access Protocol API, is what I needed to learn about for this exercise. From there I made an `ldapwhoami` query.
 
 ### Lunch
 _1:00 pm to 2:00 pm_
