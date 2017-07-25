@@ -35,13 +35,13 @@ Count alpha. Taking a string as input, print out the number of each letter prese
 I later learned from the cadets that these last 5 levels and the problems they hold are only used for the final exam of the C piscine. It was honestly jarring during the exam when I got to level 6. I though I would have to do multiple level 5 questions.
 
 #### Level 7
-Order by alpha and length. This one was long. You had to take the string given as input, and then print all the words in it sorted first by length and then by lexigraphical order. For this problem I had to actually rewrite a level 4 problem, split whitespaces, in order to manage the given input. Hard and long. ~6 hours in
+Order by alpha and length. This one was long. You had to take the string given as input, and then print all the words in it sorted first by length and then by lexicographical order. For this problem I had to actually rewrite a level 4 problem, split whitespaces, in order to manage the given input. Hard and long. ~6 hours in
 
 #### Level 8 Attempt 1
 Count Island. The first problem I failed. For this one you had to design a program that takes a map as input (rectangle populated only by .'s and #'s), and number each island (represented as a group on touching #'s). My solution worked for the two given exampled, but didn't pass the tests. I believe this is because I didn't clear the buffer every time the program ran. Fun, but difficult. ~7 hours in.
 
 #### Level 8 Attempt 2
-Infinity Addition. For this program I had to take 2 strings representing valid integers as input, and return their sum. I ended up doing this recursively, adding (or subtracting) the number digit by digit with the carry recursively to push the first result way back into the stack and print it at the very end. While this problem wasn't crazy difficult, I was so exhausted and mentally drained I had a lot of trouble getting it to work. Before I submitted it with minutes left, I kept having seg faults for the input of -10 and 9. Thanfully the automated tests didn't catch that and I passed this problem. Very difficult due to physical and mental exhaustion. ~7 hours and 57 minutes in
+Infinity Addition. For this program I had to take 2 strings representing valid integers as input, and return their sum. I ended up doing this recursively, adding (or subtracting) the number digit by digit with the carry recursively to push the first result way back into the stack and print it at the very end. While this problem wasn't crazy difficult, I was so exhausted and mentally drained I had a lot of trouble getting it to work. Before I submitted it with minutes left, I kept having seg faults for the input of -10 and 9. Thankfully the automated tests didn't catch that and I passed this problem. Very difficult due to physical and mental exhaustion. ~7 hours and 57 minutes in
 
 #### Level 9
 Graph diameter. Given a string with graph links, return the length of the largest circular route. Now, I've never done any work with graphs, and I only had three minutes left. So I was unable to even start this question.
@@ -52,7 +52,7 @@ MD5. Rewrite the MD5 hash algorithm. Yep, this one is hard. No one, as far as I 
 I ended up with a 76/100. The highest score in my piscine was 81/100. I was very happy with what I got, it being the second highest. I definitely enjoyed this very long exam, but was brain dead afterwards.
 
 ### BBQ
-Woohoo! Piscine is over. The pisciners plus some cadets all had a barbeque on the lawn. It was nice to relax and play volleyball and eat food and be done with the piscine.
+Woohoo! Piscine is over. The pisciners plus some cadets all had a barque on the lawn. It was nice to relax and play volleyball and eat food and be done with the piscine.
 
 ### Viewing of The Hitchhiker's Guide to the Galaxy
 To end the piscine, the movie club had a viewing of the movie that 42 got it's namesake from. Also it made clear a lot of the references during the piscine. Vogsphere, or the server we pushed all our work to, is from Hitchhiker's Guide to the Galaxy. So is Sastantua, Marvin, and 42! A great way to end a great month of learning.
