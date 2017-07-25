@@ -1,0 +1,15 @@
+---
+layout: post
+title: "BSQ: BSQ"
+date: 2017-07-19
+categories: piscine
+---
+
+## The Last Day of The Last Project (Day 24)
+The last project is BSQ, aka Biggest SQuare. For this project we got to choose partners, which was a refreshing change from the randomly assigned rush groups. Also it was a team of two instead of three. For this project we had to find the biggest square from a given map filled with empty spaces and obstacles. The cool thing about this project was that we had to take into consideration not only correctness, but also speed and efficiency.
+
+### The strategy
+What my group ending up doing was brute force. We inefficiently send multiple copies of the input map around to functions that had while loops inside of while loops. Our logarithmic complexity was O(n ^ 8). But it worked. And 50% of the grade is correctness.
+
+**UPDATE**
+We needed to have a new line after every map, and we didn't. 0/100
