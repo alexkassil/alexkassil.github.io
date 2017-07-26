@@ -5,11 +5,11 @@ date: 2017-06-30
 category: piscine
 ---
 ## Recursion vs Iteration
-Recursion, having a function call itself, and Iteration, having a function repeate an repetitive process, are two was to solve many computational problems.
+Recursion, having a function call itself, and Iteration, having a function repeat an repetitive process, are two was to solve many computational problems.
 
-Today the exercises has us make iterative and recursive versions of two functions, the factorial function, and the power function. The cool thing about recursion is that many times the solutions end up more elagant, yet more mind boggling, than the iterative solutions. I've been writing my own tests for these problems.
+Today the exercises has us make iterative and recursive versions of two functions, the factorial function, and the power function. The cool thing about recursion is that many times the solutions end up more elegant, yet more mind boggling, than the iterative solutions. I've been writing my own tests for these problems.
 
-After these four exercises, we had to right a function to compute the nth fibonacci number, and to find an integer sqrt, if one existed.
+After these four exercises, we had to right a function to compute the nth fibonacci number, and to find an integer square root, if one existed.
 
 The next two were very similar. One was tell if a number is prime, the other find the next prime.
 
