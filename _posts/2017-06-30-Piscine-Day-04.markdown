@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Piscine Day 04: Algorithms - Recursion vs Iteration and Exam00"
+date: 2017-06-30
+category: piscine
+---
+## Recursion vs Iteration
+Recursion, having a function call itself, and Iteration, having a function repeate an repetitive process, are two was to solve many computational problems.
+
+Today the exercises has us make iterative and recursive versions of two functions, the factorial function, and the power function. The cool thing about recursion is that many times the solutions end up more elagant, yet more mind boggling, than the iterative solutions. I've been writing my own tests for these problems.
+
+After these four exercises, we had to right a function to compute the nth fibonacci number, and to find an integer sqrt, if one existed.
+
+The next two were very similar. One was tell if a number is prime, the other find the next prime.
+
+## Exam00
+
+First exam! Quite fun, some problems were those we have seen from previous days like atoi, others were new, like printing the alphabet in alternating upper/lowercase fashion. I ended up doing really well and getting a 95/100, messing up only on the first one. I had print z, where all you had to do was right a **program** that displays the letter z to standard output. Since we had never submitted programs before (c files with a main), I just submitted a **function** that when called prints z. After that I made no mistakes, and got all the way to level 4.
