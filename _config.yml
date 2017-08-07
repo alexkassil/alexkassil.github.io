@@ -25,7 +25,7 @@ github_username:  alexkassil
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: minimal
+theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
 exclude:
