@@ -16,9 +16,9 @@
 title: Programmer's Musings
 email: contactalexkassil@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    Hello! I am a soon to be freshman at UC Berkeley studying Computer Science! My goal is to be a software engineer, and catalog the process of me getting there.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+    Hello! I am a soon to be junior at UC Berkeley studying Computer Science! My goal is to be a software engineer, and catalog the process of me getting there.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://alexkassil.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alexkassil
 github_username:  alexkassil
 
