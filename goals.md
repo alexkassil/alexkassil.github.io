@@ -48,8 +48,7 @@ I am happiest when I am exercising regularly! Here are my recent workout session
 
 ### Lifting
 
-I have finally returned to the gym after a long haitus due to covid. My main lifts are down, but my motivation is high!
-
+I have finally returned to the gym after a long haitus due to covid. My main lifts are down, but my motivation is high! This year I want consistency.
 
 
 Current Squat: 135 lbs
@@ -62,7 +61,7 @@ Current Overhead Press: 65 lbs
 
 ### Reading Chinese
 
-I've been learning chinese and my favorite part is reading books. Here are the books I read and the books I am currently reading are marked with *.
+I've been learning chinese and my favorite part is reading books. Here are the books I read and the books I am currently reading are marked with *. I hope to keep making a little progress every day!
 
 <ol>
 
@@ -73,7 +72,7 @@ I've been learning chinese and my favorite part is reading books. Here are the b
 	<li>盲人国</li>
 	<li>安末</li>
 	<li>美好的前途（上）</li>
-	<li>获王的诞生</li>
+	<li>猴王的诞生</li>
 	<li>*美好的前途（下）</li>
 	<li>*女巫</li>
 	
@@ -81,7 +80,7 @@ I've been learning chinese and my favorite part is reading books. Here are the b
 
 ### Reading & Listening to English
 
-I've been listening to a lot of audiobooks and using Libby to get library books. Here are some I've read recently and am currently reading (marked with *).
+I've been listening to a lot of audiobooks and using Libby to get library books. Here are some I've read recently and am currently reading (marked with *). I hope to rekindle my childhood love for reading.
 
 <ol>
 
