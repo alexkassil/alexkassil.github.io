@@ -48,7 +48,7 @@ I am happiest when I am exercising regularly! Here are my recent workout session
 
 ### Lifting
 
-I have finally returned to the gym after a long haitus due to covid. My main lifts are down, but my motivation is high! This year I want consistency.
+I have finally returned to the gym after a long haitus due to covid. My main lifts are down, but my motivation is high! This year I want consistency. In the long term I want to total 1000 lbs.
 
 
 Current Squat: 135 lbs
