@@ -30,7 +30,9 @@ What's interesting is how divisive these topics can be, and how much they can ta
 
 _dont go getting so eddicated that you wont talk to your old frends_
 
-One narrative style Flowers for Algernon employs is flashbacks as Charlie is getting smarter, remembering past events. Here Charlie remembers on how he learned to read. Specifically he asked his coworker, Joe Carp, on how Joe learned to read, who just laughed and answered "why waste your time they cant put any branes in where there aint none", 
+One narrative style Flowers for Algernon employs is flashbacks as Charlie is getting smarter, remembering past events. Here Charlie remembers on how he learned to read. Specifically he asked his coworker, Joe Carp, on how Joe learned to read, who just laughed and answered "why waste your time they cant put any branes in where there aint none", but then Fanny jumped in and let Charlie know about an "adult center for retarded pepul a the Beekman collidge". The sad part about this and previous passages is how clear the kindness Charlie feels from his friends is them all just making fun of him, and there's an inevitable worry for what will happen when Charlie smartens up and realizes this.
+
+What specifically struck me about this phrase from the book was thinking about what I leave behind as I both got an education in school, and continue my education today. I think of "old friends" in the form of spening way too much time online or playing videogames, and those are things I have been actively leaving behind as I try to develop a deeper life of reading and learning. 
 
 #### Page 33
 
