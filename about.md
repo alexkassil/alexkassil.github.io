@@ -6,4 +6,4 @@ permalink: /about/
 
 Hello and welcome to my blog!
 
-I am excited to have you join me on my journey to becoming a software engineer.
+I am excited to have you join me on my journey ~~to becoming a software engineer~~ being a software engineer and lifelong learner.
